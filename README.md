@@ -54,7 +54,7 @@ node app.js
 
 ## KuantumKaosOdev
 
-- `KuantumKaosOdev-csharp`                      --- C# Proje Dosyaları (.NET Console)
+- `KuantumKaosOdev-csharp`                      --- C# (.NET Console)
   - `Program.cs`
   - `KuantumNesnesi.cs`
   - `IKritik.cs`
@@ -63,7 +63,7 @@ node app.js
   - `KaranlikMadde.cs`
   - `AntiMadde.cs`
 ---
-- `KuantumKaosOdev-java`                        --- Java Proje Dosyaları (IntelliJ src)
+- `KuantumKaosOdev-java`                        --- Java (IntelliJ src)
   - `src/Main.java`
   - `src/KuantumNesnesi.java`
   - `src/IKritik.java`
@@ -72,11 +72,11 @@ node app.js
   - `src/KaranlikMadde.java`
   - `src/AntiMadde.java`
 ---
-- `KuantumKaosOdev-python`                      --- Python Script Dosyaları
+- `KuantumKaosOdev-python`                      --- Python 
   - `main.py`
   - `moduller.py`
 ---
-- `KuantumKaosOdev-javascript`                  --- Node.js Uygulama Dosyası
+- `KuantumKaosOdev-javascript`                  --- Node.js 
   - `app.js`
 ---
 
