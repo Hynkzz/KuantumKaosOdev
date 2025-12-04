@@ -83,7 +83,7 @@ node app.js
 # 🧪 Gereksinimler
 
 
-  .NET SDK: 9.0+ (C# için)
+  .NET SDK: 9.0+
 
   Java JDK: 21+
 
